@@ -8,9 +8,9 @@
 #coding=utf-8
 
 # Input(輸入):Prompt the user to enter a radius
-#eval(): 為 python 內建函數，用來執行一個字串表達式，並返回表達式的值
+# eval(): 為 python 內建函數，用來執行一個字串表達式，並返回表達式的值
 #eval() ==> http://www.runoob.com/python/python-func-eval.html
-================================================================
+
 radius = eval(input("Enter a number for radius: "))
 
 # Processing(處理):Compute area
